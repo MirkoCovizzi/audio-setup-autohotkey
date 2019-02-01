@@ -5,8 +5,11 @@ This process leads to a self setting up audio routing environment at boot time (
 
 Requirements:
 - Voicemeeter Banana (Free)
+https://www.vb-audio.com/Voicemeeter/banana.htm
 - Image-Line MiniHost Modular (Free)
-- AutoHotkey (Free)
+http://www.image-line.com/documents/news.php?entry_id=1391136116
+- AutoHotkey (Installer version) (Free)
+https://www.autohotkey.com/
 
 Setup Voicemeeter Banana:
 - In Windows choose as playback device "Voicemeeter Aux Input".
