@@ -19,7 +19,7 @@ ControlClick, x45 y15, ahk_pid %MyPID%
 ControlSend,, {Down}, ahk_pid %MyPID%
 ControlSend,, {Down}, ahk_pid %MyPID%
 ControlSend,, {Enter}, ahk_pid %MyPID%
-Sleep, 500
+Sleep, 1000
 
 ; Change file position to what you chose for your graph.
 ; Remember to use an absolute path and to include file extension (.gra)
