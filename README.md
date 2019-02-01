@@ -3,9 +3,9 @@
 This is the perfect setup to loopback system audio and manipulate it in a VST Host like Image-Line's MiniHost Modular. This can be  used, for example, to correct system-wise audio devices like headphones or speakers to specific EQ curves using advanced EQ VSTs.
 
 Requirements:
-- Voicemeeter Banana
-- Image-Line MiniHost Modular
-- AutoHotkey
+- Voicemeeter Banana (Free)
+- Image-Line MiniHost Modular (Free)
+- AutoHotkey (Free)
 
 Setup Voicemeeter Banana:
 - In Windows choose as playback device "Voicemeeter Aux Input".
